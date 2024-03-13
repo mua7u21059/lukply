@@ -1,0 +1,53 @@
+### Privacy Policy
+
+#### Introduction
+
+Welcome to Whitehoer Technology Inc Apps ("We," "us," or "our"). The privacy and security of our users' ("you") information are paramount to us. This Privacy Policy sets forth our policies regarding the collection, use, and protection of your personal information when you use our mobile application (the "App"). We encourage you to review this Privacy Policy carefully to understand how we protect your privacy. By utilizing the App, you agree to the terms of this Privacy Policy. We may amend this policy at any time, and we will notify you of any changes by posting the updated policy on the App or our website, and through other effective communication methods. Continued use of the App after such changes signifies your consent to the revised policy.
+
+#### 1. Information Collection Methods
+
+We collect information as follows:
+
+- Non-personal information we collect may include data such as your device's make, model, operating system version, language preference, device identifiers (e.g., advertising IDs), app activity, and general usage patterns.
+
+- Personal information we collect may include identifiable details such as your name, age, gender, telephone number, email address, and username, as well as data from social media platforms if you choose to connect your social media accounts with the App.
+
+#### 2. Objectives for Information Use
+
+We use the information we collect for several purposes:
+
+- To provide, maintain, and improve our Services, verify user identities, facilitate communication, and offer personalized advertising.
+
+- To enhance the App's user experience and tailor our marketing efforts to better align with your interests.
+
+- To maintain security and protect the integrity of our systems, which includes preventing unauthorized access and other illegal activities.
+
+- To fulfill our legal and regulatory responsibilities.
+
+#### 3. Information Distribution
+
+We do not sell, trade, or rent your personal information. We may share information with third-party service providers, business partners, and advertisers to support the delivery of our Services. These parties are bound by confidentiality agreements and are required to comply with applicable privacy legislation.
+
+#### 4. Information Protection
+
+We implement robust security measures, including physical, administrative, and technical safeguards, as well as encryption where necessary, to secure your information against unauthorized access, disclosure, alteration, or destruction.
+
+#### 5. Retention of Information
+
+Your information is retained for as long as is necessary to provide the Services, fulfill the purposes for which it was collected, adhere to legal requirements, or until you request its deletion. Consequently, we will store your information for the duration of your engagement with the App. Subsequently, information will be securely deleted or anonymized for statistical purposes.
+
+#### 6. Rights of EU Residents
+
+For individuals in the European Union (EU), you have the right to access, rectify, erase, and port your personal data, in addition to the right to object to certain data processing activities. Data may be transferred outside the EU to countries with varying levels of data protection, and by using the App, you consent to these transfers. Consent can be revoked at any time.
+
+#### 7. Child Privacy
+
+We do not knowingly collect personal information from children under the age of 13 (or under 16 in the EU). If a parent or guardian learns that their child has provided us with personal information without their consent, they should contact us immediately. We will take necessary steps to remove such information from our databases.
+
+#### 8. Managing Your Data
+
+You have the right to update, correct, or delete your personal information through your App account settings or by contacting us. You also have the right to restrict or object to the processing of your data and to request a copy of your personal data. To exercise these rights, please contact us for identity verification, and we will act in accordance with applicable privacy laws.
+
+#### 9. How to Contact Us
+
+Should you have any questions or concerns about your personal data or this Privacy Policy, please get in touch with us at fjlsaweo24450@gmail.com.
